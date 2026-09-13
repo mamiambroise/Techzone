@@ -1,0 +1,13 @@
+{
+  "name": "TECH ZONE — Services numériques",
+  "short_name": "TECH ZONE",
+  "description": "Internet WISP, matériel, formations, Fretunia et développement à Fianarantsoa.",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#ff7100",
+  "icons": [
+    {"src":"assets/logo-techzone.png","sizes":"1024x1024","type":"image/png","purpose":"any maskable"}
+  ]
+}
